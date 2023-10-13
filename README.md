@@ -7,7 +7,7 @@
 <h2>🐍 Python Projects:</h2>
 
 - <b>Blackjack Game</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Implementing OOP principles by creating a Blackjack game](https://github.com/inderdeepsaggu/blackjack/tree/main)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
