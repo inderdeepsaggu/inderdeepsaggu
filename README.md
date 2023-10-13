@@ -1,4 +1,4 @@
-<h1>Hi, I'm Inderdeep! <br/><a href="https://github.com/inderdeepsaggu">Programmer</a>, <a href="https://www.linkedin.com/in/inderdeepsaggu/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Inderdeep! <br/><a href="https://github.com/inderdeepsaggu">Programmer</a>, <a href="https://www.linkedin.com/in/inderdeepsaggu/">LinkedIn</a></h1>
 
 <h2>🗃️ Data Analyst Projects:</h2>
 
