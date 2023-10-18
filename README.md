@@ -10,7 +10,8 @@
   - [Implementing OOP principles by creating a Blackjack game](https://github.com/inderdeepsaggu/blackjack/tree/main)
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>Coming Soon!</b>
+<b>Coming Soon!</b>
+  
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
