@@ -21,7 +21,7 @@
 -->
 <h2>🐍 Python Projects:</h2>
 
-- <b>Blackjack Game</b>
+- <b>Blackjack</b>
   - [Implementing OOP principles by creating a Blackjack game](https://github.com/inderdeepsaggu/blackjack/tree/main)
 
 <h2>👨‍💻 Software Development Projects:</h2>
