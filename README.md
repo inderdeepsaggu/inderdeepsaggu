@@ -1,6 +1,6 @@
 <h1>Hi, I'm Inderdeep! <br/><a href="https://github.com/inderdeepsaggu">Programmer</a>, <a href="https://www.linkedin.com/in/inderdeepsaggu/">LinkedIn</a></h1>
 
-<h2>🗃️ Data Analyst Projects:</h2>
+<h2>🗃️ Data Analysis Projects:</h2>
 
 - <b>Webscraping Using Python</b>
   - [Webscraping Data Using Python, Data Manipulation Using Pandas](https://github.com/inderdeepsaggu/python_webscraping)
