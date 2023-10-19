@@ -1,9 +1,21 @@
-<h1>Hi, I'm Inderdeep! <br/><a href="https://github.com/inderdeepsaggu">Programmer</a>, <a href="https://www.linkedin.com/in/inderdeepsaggu/">LinkedIn</a></h1>
+<h1>Hi, I'm Inderdeep!</h1>
+<p>I am a passionate and versatile prgrammer with a strong foundation in a variety of programming languages and frameworks. My skills encompass the realms of data analysis, web development, and backend engineering.</p>
+<h3>Languages:</h3>
+<p>
+  <ol>
+    <li><strong>SQL</strong></li>
+    <li><strong>Python</strong></li>
+    <li><strong>Java</strong></li>
+    <li><strong>HTML & CSS</strong></li>
+    <li><strong>JavaScript</strong></li>
+  </ol>
 
 <h2>🗃️ Data Analysis Projects:</h2>
 
 - <b>Webscraping Using Python</b>
   - [Webscraping Data Using Python, Data Manipulation Using Pandas](https://github.com/inderdeepsaggu/python_webscraping)
+- <b>SQL Analysis on Call Logs</b>
+  - [Winnipeg Fire and Paramedic Call Data Analysis Using SQL and Python for Data Cleaning](https://github.com/inderdeepsaggu/SQL_WFPS)
 <!--
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 -->
