@@ -1,5 +1,5 @@
 <h1>Hi, I'm Inderdeep!</h1>
-<p>I am a passionate and versatile prgrammer with a strong foundation in a variety of programming languages and frameworks. My skills encompass the realms of data analysis, web development, and backend engineering.</p>
+<p>I am a passionate and versatile programmer with a strong foundation in a variety of programming languages and frameworks. My skills encompass the realms of data analysis, web development, and backend engineering.</p>
 <h3>Languages:</h3>
 <p>
   <ol>
